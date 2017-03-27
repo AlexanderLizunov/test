@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'OSWALD-REGULAR';
+  src: url("../fonts/OSWALD-REGULAR.ttf");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'LATO-REGULAR';
+  src: url("../fonts/LATO-REGULAR_0.ttf");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'LATO-HEAVY';
+  src: url("../fonts/LATO-HEAVY_0.ttf");
+  font-weight: normal;
+  font-style: normal; }
+
+/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImZvbnRzLnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0E7RUFDRSw4QkFBNkI7RUFDN0Isd0NBQXVDO0VBQ3ZDLG9CQUFtQjtFQUNuQixtQkFBa0IsRUFBQTs7QUFJcEI7RUFDRSw0QkFBMkI7RUFDM0Isd0NBQXVDO0VBQ3ZDLG9CQUFtQjtFQUNuQixtQkFBa0IsRUFBQTs7QUFJcEI7RUFDRSwwQkFBeUI7RUFDekIsc0NBQXFDO0VBQ3JDLG9CQUFtQjtFQUNuQixtQkFBa0IsRUFBQSIsImZpbGUiOiJmb250cy5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyJAY2hhcnNldCBcIlVURi04XCI7XHJcbkBmb250LWZhY2Uge1xyXG4gIGZvbnQtZmFtaWx5OiAnT1NXQUxELVJFR1VMQVInO1xyXG4gIHNyYzogdXJsKCcuLi9mb250cy9PU1dBTEQtUkVHVUxBUi50dGYnKTtcclxuICBmb250LXdlaWdodDogbm9ybWFsO1xyXG4gIGZvbnQtc3R5bGU6IG5vcm1hbDtcclxufVxyXG5cclxuXHJcbkBmb250LWZhY2Uge1xyXG4gIGZvbnQtZmFtaWx5OiAnTEFUTy1SRUdVTEFSJztcclxuICBzcmM6IHVybCgnLi4vZm9udHMvTEFUTy1SRUdVTEFSXzAudHRmJyk7XHJcbiAgZm9udC13ZWlnaHQ6IG5vcm1hbDtcclxuICBmb250LXN0eWxlOiBub3JtYWw7XHJcbn1cclxuXHJcblxyXG5AZm9udC1mYWNlIHtcclxuICBmb250LWZhbWlseTogJ0xBVE8tSEVBVlknO1xyXG4gIHNyYzogdXJsKCcuLi9mb250cy9MQVRPLUhFQVZZXzAudHRmJyk7XHJcbiAgZm9udC13ZWlnaHQ6IG5vcm1hbDtcclxuICBmb250LXN0eWxlOiBub3JtYWw7XHJcbn1cclxuIl19 */
